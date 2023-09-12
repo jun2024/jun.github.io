@@ -15,7 +15,7 @@
 
 # plum skin 활용하여 색상 설정함. 변경하려면 _sass/minimal-mistakes/skins/_plum.scss 에서 변경하거나
 # 해당 디렉토리 내의 다른 테마로 변경 가능 (minimal-mistakes 기본 제공 테마)
-minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
+minimal_mistakes_skin: "dark" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
@@ -24,9 +24,9 @@ title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
 name: "Jun GitLoG" # 블로그 닉네임 설정
 description: "Jun GitLoG" # 블로그 설명
-url: "https://jun.github.io" # 블로그 URL
+url: "https://jun2024.github.io" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "jun2024/jun.github.io" # GitHub Repo 이름
+repository: "jun2024/jun2024.github.io" # GitHub Repo 이름
 teaser: #
 
 # logo                     : # 블로그명 앞에 로고 추가하고 싶을 경우 사용
@@ -68,7 +68,7 @@ google:
   search_engine_id: # YOUR_SEARCH_ENGINE_ID
   instant_search: # false (default), true
 # SEO(Search Engine Optimization) Related
-google_site_verification:
+google_site_verification: FoUHyWVh363nd44MJWmATq0i_qZXdYTLN4WpfTBhzJk
 bing_site_verification:
 yandex_site_verification:
 naver_site_verification:
