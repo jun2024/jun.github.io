@@ -45,7 +45,7 @@ comments:
     num_posts: # 5 (default)
     colorscheme: # "light" (default), "dark"
   utterances:
-    theme: "github-light" # "github-dark"
+    theme: "github-dark" # "github-dark"
     issue_term: "pathname"
   staticman:
     branch: # "master"
@@ -67,7 +67,7 @@ algolia:
 google:
   search_engine_id: # YOUR_SEARCH_ENGINE_ID
   instant_search: # false (default), true
-# SEO Related
+# SEO(Search Engine Optimization) Related
 google_site_verification:
 bing_site_verification:
 yandex_site_verification:
@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name: "Jun GitLoG" # 블로그 닉네임
-  avatar: "/assets/images/meee.png" # 블로그 프로필 사진
+  avatar: "/assets/images/hijun.svg" # 블로그 프로필 사진
   #   bio              : "hi all!"
   # location         : "Seoul, Korea"
   # email            : "youremailhere@xxxxxx.com"

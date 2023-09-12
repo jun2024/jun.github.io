@@ -1,7 +1,7 @@
-## 🦥 `Minimal Mistakes theme customized by choiiis`
+## 🦥 `Minimal Mistakes theme customized by choiiis & modified by Jun`
 
 📎 **블로그 바로 가기**
-[`https://choiiis.github.io/`](https://choiiis.github.io/)
+[`https://jun.github.io/`](https://jun.github.io/)
 
 
 
