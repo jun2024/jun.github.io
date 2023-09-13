@@ -1,8 +1,8 @@
 ---
-title: "Hi all! I'm OOOOOO👋🏻"
+title: "Jun's Git Blog 🙌"
 permalink: /about/
 layout: single
 comments: false
 ---
 
-본인 소개 여기에 입력
+Solution Architect를 꿈꾸는 IT 초보

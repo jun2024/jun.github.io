@@ -24,3 +24,5 @@ categories:
     url: /categories/aws/
   - title: "Glog"
     url: /categories/glog/
+  - title: "EKS"
+    url: /categories/eks/
