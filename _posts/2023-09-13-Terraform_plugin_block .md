@@ -20,9 +20,7 @@ last_modified_at: 2023-09-14
    
 Terraform, Provider, Outputs, Resources, Data sources 이게 다 뭘까?      
    
-*Terraform 공식 문서 참고*   
-
-[https://developer.hashicorp.com/terraform/language/files]
+*[Terraform 공식 문서 참고]*(https://developer.hashicorp.com/terraform/language/files)
 
 ---
 
