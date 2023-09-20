@@ -167,7 +167,7 @@ $ terraform apply
 5. EKS에 생성된 클러스터 확인   
 kubectl로 k8s의 클러스터에 접근하기 위해서 생성된 클러스터를 등록합니다.   
 ```bash
-aws eks --region $(terraform output -raw region) update-kubeconfig --name $(terraform output -raw cluster_name)
+$ aws eks --region $(terraform output -raw region) update-kubeconfig --name $(terraform output -raw cluster_name)
 ```
 등록 후 `kubectl config current-context`명령어로 클러스터 등록 확인   
 ```bash
